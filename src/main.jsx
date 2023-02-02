@@ -9,6 +9,6 @@ import './style.css'
 
 ReactDom.createRoot( document.getElementById('root') ).render(
     <React.StrictMode>
-        <CounterApp value = {20} />
+        <FirstApp title='Hola, soy Vegeta'/>
     </React.StrictMode> 
 )
